@@ -1,0 +1,7 @@
+/raw_videos
+/tapping_test.mp4
+/pd_env/
+/logs/
+/processed_data/
+__pycache__/
+*.pyc
