@@ -10,6 +10,7 @@ from tqdm.notebook import tqdm
 import pandas as pd
 import torch.optim as optim # <-- THIS IS THE FIX
 
+
 class Baseline_1D_CNN(nn.Module):
     '''A simple 1D-CNN to act as a baseline for time-series data.'''
     def __init__(self, input_dim, num_classes=1):
