@@ -1,0 +1,370 @@
+{
+    "best_result": {
+        "lr": 0.0003,
+        "wd": 0.0005,
+        "lambda": 0.7,
+        "dropout": 0.4
+    },
+    "all_results": [
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 61.0,
+            "epochs_run": 27
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 57.0,
+            "epochs_run": 19
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 63.0,
+            "epochs_run": 24
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 62.5,
+            "epochs_run": 27
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 59.0,
+            "epochs_run": 20
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0001,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 58.0,
+            "epochs_run": 40
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 59.0,
+            "epochs_run": 24
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 58.5,
+            "epochs_run": 42
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 65.0,
+            "epochs_run": 34
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 59.0,
+            "epochs_run": 43
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 61.0,
+            "epochs_run": 27
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.0005,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 58.0,
+            "epochs_run": 18
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 59.5,
+            "epochs_run": 24
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 62.0,
+            "epochs_run": 29
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 61.0,
+            "epochs_run": 31
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 59.0,
+            "epochs_run": 42
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 60.5,
+            "epochs_run": 20
+        },
+        {
+            "params": {
+                "lr": 0.0003,
+                "wd": 0.001,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 62.5,
+            "epochs_run": 37
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 57.5,
+            "epochs_run": 28
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 62.0,
+            "epochs_run": 25
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 58.0,
+            "epochs_run": 31
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 57.5,
+            "epochs_run": 19
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 59.5,
+            "epochs_run": 22
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0001,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 63.0,
+            "epochs_run": 28
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 59.5,
+            "epochs_run": 21
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 60.0,
+            "epochs_run": 17
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 62.5,
+            "epochs_run": 22
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 58.0,
+            "epochs_run": 27
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 63.5,
+            "epochs_run": 19
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.0005,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 61.5,
+            "epochs_run": 17
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 0.3,
+                "dropout": 0.4
+            },
+            "best_accuracy": 60.5,
+            "epochs_run": 33
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 0.3,
+                "dropout": 0.5
+            },
+            "best_accuracy": 58.0,
+            "epochs_run": 25
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 0.7,
+                "dropout": 0.4
+            },
+            "best_accuracy": 57.5,
+            "epochs_run": 24
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 0.7,
+                "dropout": 0.5
+            },
+            "best_accuracy": 56.5,
+            "epochs_run": 27
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 1.0,
+                "dropout": 0.4
+            },
+            "best_accuracy": 60.5,
+            "epochs_run": 23
+        },
+        {
+            "params": {
+                "lr": 0.0005,
+                "wd": 0.001,
+                "lambda": 1.0,
+                "dropout": 0.5
+            },
+            "best_accuracy": 61.5,
+            "epochs_run": 22
+        }
+    ]
+}

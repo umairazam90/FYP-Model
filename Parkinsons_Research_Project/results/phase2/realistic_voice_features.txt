@@ -1,0 +1,11 @@
+Jitter(%)
+Jitter(Abs)
+Jitter:RAP
+Jitter:PPQ5
+Shimmer
+Shimmer(dB)
+NHR
+HNR
+RPDE
+DFA
+PPE

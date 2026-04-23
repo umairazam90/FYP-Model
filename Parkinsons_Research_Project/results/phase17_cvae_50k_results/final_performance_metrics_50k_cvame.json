@@ -1,0 +1,18 @@
+{
+    "best_baseline_accuracy_percent": 82.39,
+    "cm_dan_best_accuracy_percent": 86.72,
+    "improvement_over_baseline_percent": 4.329999999999998,
+    "training_params": {
+        "lr": 0.0005,
+        "wd": 0.001,
+        "lambda": 1.0,
+        "dropout": 0.6
+    },
+    "dataset_info": {
+        "samples": 50000,
+        "noise_level": 0.1,
+        "features": 28,
+        "augmentation": "cVAE",
+        "modality_dropout": true
+    }
+}

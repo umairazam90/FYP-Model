@@ -1,0 +1,15 @@
+step_time_mean
+force_asymmetry
+stride_length
+left_force_mean
+stance_time_ratio
+step_time_cv
+step_length
+HNR
+stride_time_cv
+stride_time_mean
+cadence
+right_force_mean
+Shimmer(dB)
+stride_time_std
+left_force_std

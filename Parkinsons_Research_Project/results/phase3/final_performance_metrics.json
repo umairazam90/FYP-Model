@@ -1,0 +1,12 @@
+{
+    "best_baseline_accuracy": 50.0,
+    "cm_dan_best_accuracy": 50.0,
+    "improvement_over_baseline": 0.0,
+    "dataset_info": {
+        "total_samples": 1000,
+        "voice_features": 11,
+        "gait_features": 17,
+        "label_match_rate": 50.0,
+        "baseline_difficulty": 0.5
+    }
+}

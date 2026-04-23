@@ -1,0 +1,6 @@
+Best Baseline Model: Random Forest
+Best Baseline Accuracy (Subject-wise CV): 0.6280
+
+Random Forest: 0.6280 +/- 0.0511
+Logistic Regression: 0.5840 +/- 0.0193
+Linear SVM: 0.5900 +/- 0.0212

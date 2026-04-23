@@ -1,0 +1,15 @@
+cadence
+Shimmer(dB)
+stride_time_std
+step_time_std
+right_force_mean
+HNR
+Jitter(Abs)
+stride_time_cv
+step_time_cv
+stride_time_mean
+RPDE
+swing_time_ratio
+step_length
+Jitter:PPQ5
+Jitter:RAP

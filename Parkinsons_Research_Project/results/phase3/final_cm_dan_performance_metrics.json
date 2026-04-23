@@ -1,0 +1,6 @@
+{
+    "best_baseline_accuracy_percent": 50.0,
+    "cm_dan_best_accuracy_percent": 50.0,
+    "improvement_over_baseline_percent": 0.0,
+    "dataset_details": "Ultra-Realistic 1k Subjects, 35% Label Noise, 12% Feature Noise"
+}

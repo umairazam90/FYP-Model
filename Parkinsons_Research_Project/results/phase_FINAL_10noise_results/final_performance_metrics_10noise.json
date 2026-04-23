@@ -1,0 +1,18 @@
+{
+    "best_baseline_accuracy_percent": 59.9,
+    "best_standard_cm_dan_accuracy_percent": 57.0,
+    "gce_cm_dan_accuracy_percent": 59.5,
+    "improvement_gce_vs_standard": 2.5,
+    "training_params": {
+        "lr": 0.0003,
+        "wd": 0.0005,
+        "lambda": 0.7,
+        "dropout": 0.4,
+        "gce_q": 0.7
+    },
+    "dataset_info": {
+        "samples": 1000,
+        "noise_level": 0.1,
+        "features": "28 (Standard)"
+    }
+}

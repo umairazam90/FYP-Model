@@ -1,0 +1,6 @@
+Best Baseline Model (Top 15 Features): Random Forest
+Best Baseline Accuracy (Top 15 Features): 0.6330
+
+Random Forest: 0.6330 +/- 0.0371
+Logistic Regression: 0.5900 +/- 0.0402
+Linear SVM: 0.5940 +/- 0.0338

@@ -1,0 +1,16 @@
+{
+    "best_baseline_accuracy_percent": 58.4,
+    "best_grl_cm_dan_accuracy_percent": 61.0,
+    "mmd_cm_dan_accuracy_percent": 57.5,
+    "improvement_over_grl_cm_dan": -3.5,
+    "training_params": {
+        "lr": 0.0005,
+        "wd": 0.001,
+        "lambda": 1.0,
+        "dropout": 0.6
+    },
+    "dataset_info": {
+        "samples": 1000,
+        "noise_level": 0.2
+    }
+}

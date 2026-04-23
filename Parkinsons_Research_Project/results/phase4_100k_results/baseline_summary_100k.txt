@@ -1,0 +1,6 @@
+Best Baseline Model (100k Data): Logistic Regression
+Best Baseline Accuracy (100k Data): 0.5519
+
+Random Forest: 0.5438 +/- 0.0098
+Logistic Regression: 0.5519 +/- 0.0126
+Linear SVM: 0.5515 +/- 0.0129

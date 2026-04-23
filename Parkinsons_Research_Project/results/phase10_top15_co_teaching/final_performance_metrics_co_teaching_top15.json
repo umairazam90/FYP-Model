@@ -1,0 +1,17 @@
+{
+    "best_baseline_accuracy_percent": 63.3,
+    "best_standard_cm_dan_accuracy_percent": 65.0,
+    "co_teaching_cm_dan_accuracy_percent": 60.5,
+    "improvement_over_standard_cm_dan": -4.5,
+    "training_params": {
+        "lr": 0.0003,
+        "wd": 0.0005,
+        "lambda": 0.7,
+        "dropout": 0.4
+    },
+    "dataset_info": {
+        "samples": 1000,
+        "noise_level": 0.2,
+        "features": "Top 15 Selected"
+    }
+}

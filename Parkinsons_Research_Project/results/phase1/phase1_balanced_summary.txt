@@ -1,0 +1,21 @@
+
+PHASE 1 - CORRECTED SUMMARY WITH BALANCED DATASET
+==================================================
+
+CLASS DISTRIBUTION IDENTIFIED:
+- Voice data: (array([0, 1]), array([20, 24]))
+- Gait data: (array([0, 1]), array([38, 12]))
+
+BALANCED FEDERATED DATASET:
+- Total multimodal pairs: 32
+- Training samples: 25
+- Test samples: 7
+- Input dimension: 76
+- Class distribution - Train: {np.int64(0): np.int64(16), np.int64(1): np.int64(9)}
+- Class distribution - Test: {np.int64(0): np.int64(4), np.int64(1): np.int64(3)}
+
+DATASET COMPOSITION:
+- Control pairs (Voice Control + Gait Control)
+- Parkinson's pairs (Voice Parkinson's + Gait Parkinson's)
+
+READY FOR PHASE 2: BASELINE MODEL TRAINING ON BALANCED DATA

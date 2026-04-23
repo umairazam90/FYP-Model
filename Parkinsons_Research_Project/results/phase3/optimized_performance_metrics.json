@@ -1,0 +1,13 @@
+{
+    "best_baseline_accuracy_percent": 62.8,
+    "cm_dan_best_accuracy_percent": 58.0,
+    "improvement_over_baseline_percent": -4.799999999999997,
+    "training_params": {
+        "dropout": 0.6,
+        "weight_decay": 0.002,
+        "learning_rate": 0.0003,
+        "lambda_domain": 0.7,
+        "epochs_run": 96,
+        "patience": 20
+    }
+}

@@ -1,0 +1,6 @@
+Best Baseline Model (50k cVAE Data, 10% Noise): Linear SVM
+Best Baseline Accuracy (50k cVAE Data): 0.8239
+
+Random Forest: 0.7714 +/- 0.0028
+Logistic Regression: 0.8234 +/- 0.0042
+Linear SVM: 0.8239 +/- 0.0041

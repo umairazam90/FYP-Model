@@ -1,0 +1,17 @@
+{
+    "best_baseline_accuracy_percent": 63.3,
+    "cm_dan_mixup_accuracy_percent": 60.5,
+    "improvement_over_baseline_percent": -2.799999999999997,
+    "training_params": {
+        "lr": 0.0003,
+        "wd": 0.0005,
+        "lambda": 0.7,
+        "dropout": 0.4,
+        "mixup_alpha": 0.4
+    },
+    "dataset_info": {
+        "samples": 1000,
+        "noise_level": 0.2,
+        "features": "Top 15 Selected"
+    }
+}

@@ -1,0 +1,6 @@
+Best Baseline Model (10% Noise): Random Forest
+Best Baseline Accuracy (10% Noise): 0.5920
+
+Random Forest: 0.5920 +/- 0.0242
+Logistic Regression: 0.5430 +/- 0.0409
+Linear SVM: 0.5370 +/- 0.0426
